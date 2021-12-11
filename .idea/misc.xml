@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_adminlist.xml" value="0.1859375" />
         <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_adminview.xml" value="0.22" />
+        <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_confirm.xml" value="0.25" />
         <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_finallayout.xml" value="0.1859375" />
         <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_userlogin.xml" value="0.22" />
-        <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_venue_option.xml" value="0.1859375" />
+        <entry key="..\:/VenueReservationDIU/app/src/main/res/layout/activity_venue_option.xml" value="0.22" />
       </map>
     </option>
   </component>

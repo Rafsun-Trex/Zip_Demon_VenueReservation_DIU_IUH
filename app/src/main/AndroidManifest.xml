@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VenueReservationDIU">
         <activity
+            android:name=".finallayout"
+            android:exported="false" />
+        <activity
+            android:name=".confirm"
+            android:exported="false" />
+        <activity
             android:name=".venueOption"
             android:exported="false" />
         <activity

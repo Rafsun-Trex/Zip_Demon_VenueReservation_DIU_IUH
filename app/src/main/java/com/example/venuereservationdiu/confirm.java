@@ -7,21 +7,23 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class venueOption extends AppCompatActivity {
+public class confirm extends AppCompatActivity {
 
-    Button venueConf;
+    Button confirmedBtn;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_venue_option);
+        setContentView(R.layout.activity_confirm);
 
-        venueConf = findViewById(R.id.venueConfirmBtn);
-        venueConf.setOnClickListener(new View.OnClickListener() {
+        confirmedBtn = findViewById(R.id.confirmedBtn);
+        confirmedBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(venueOption.this, confirm.class);
+                Intent intent = new Intent(confirm.this, finallayout.class);
                 startActivity(intent);
             }
         });
+
     }
 }
