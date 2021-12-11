@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VenueReservationDIU">
         <activity
+            android:name=".venueOption"
+            android:exported="false" />
+        <activity
             android:name=".adminlist"
             android:exported="false" />
         <activity
