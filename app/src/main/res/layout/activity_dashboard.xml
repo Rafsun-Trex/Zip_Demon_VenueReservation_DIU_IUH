@@ -34,7 +34,7 @@
         android:id="@+id/Acting_txt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Acting as..."
+        android:text="Acting as:"
         android:textSize="30sp"
         app:layout_constraintBottom_toTopOf="@+id/admin_btn"
         app:layout_constraintEnd_toEndOf="parent"
